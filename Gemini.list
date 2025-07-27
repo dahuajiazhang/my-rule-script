@@ -1,6 +1,6 @@
 # === Gemini 独立走 claw 节点 ===
 DOMAIN-SUFFIX,gemini.google.com
-#DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
 #DOMAIN-SUFFIX,googleapis.com
 #DOMAIN-SUFFIX,gstatic.com
 #DOMAIN-SUFFIX,googleusercontent.com
