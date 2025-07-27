@@ -1,0 +1,9 @@
+# === Gemini 独立走 claw 节点 ===
+DOMAIN-SUFFIX,gemini.google.com,claw
+DOMAIN-SUFFIX,generativelanguage.googleapis.com,claw
+DOMAIN-SUFFIX,googleapis.com,claw
+DOMAIN-SUFFIX,gstatic.com,claw
+DOMAIN-SUFFIX,googleusercontent.com,claw
+DOMAIN-SUFFIX,google.com,claw
+DOMAIN-SUFFIX,ggpht.com,claw
+DOMAIN-KEYWORD,gemini,claw
